@@ -1,5 +1,7 @@
 ## Getting Started with React Frontend
 
+Used: React.js
+
 In this project directory, on your terminal, run:
 
 Dependencies: NodeJS
