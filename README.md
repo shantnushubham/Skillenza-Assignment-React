@@ -1,9 +1,9 @@
-# Getting Started with React Frontend
+## Getting Started with React Frontend
 
 In this project directory, on your terminal, run:
 
-npm install or npm i
+`npm install` or `npm i`
 
 And the execute:
 
-npm start
+`npm start`
