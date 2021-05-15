@@ -2,6 +2,9 @@
 
 Used: React.js
 
+Test Cases Covered:
+1. App Component Render
+
 In this project directory, on your terminal, run:
 
 Dependencies: NodeJS
